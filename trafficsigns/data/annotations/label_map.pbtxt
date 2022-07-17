@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'red light'
+}
+
+item {
+    id: 2
+    name: 'speed 25'
+}
+
+item {
+    id: 3
+    name: 'speed 40'
+}
+
+item {
+    id: 4
+    name: 'stop'
+}
